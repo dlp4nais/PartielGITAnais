@@ -27,9 +27,10 @@ body {
     text-decoration: none;
 }
 
-.menu:hover{
+.menu li a:hover{
     background-color :#199BD2;                 
 }
+
 
 .menu .sousmenu {
     list-style-type: none;
